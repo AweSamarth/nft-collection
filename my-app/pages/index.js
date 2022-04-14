@@ -242,7 +242,7 @@ function renderBody(){
  if(!presaleStarted){
   return(
 
-    <div><span className={styles.description}>Presale hasn't started yet. Come back later!</span></div>
+    <div><span className={styles.description}>Presale has not started yet. Come back later!</span></div>
   )
  }
 
