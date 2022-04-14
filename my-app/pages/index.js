@@ -211,7 +211,7 @@ const publicMint=async()=>{
         onPageLoad();
       }
 
-  }, [] )
+  })
 
 
 function renderBody(){
